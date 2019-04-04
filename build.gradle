@@ -36,6 +36,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     testCompile 'io.cucumber:cucumber-java:4.2.6'
     testCompile 'io.cucumber:cucumber-junit:4.2.6'
+    compile 'org.codehaus.groovy:groovy-all:2.4.15'
 }
 
 group = 'com.aeonlife.webtest'
